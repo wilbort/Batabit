@@ -1,0 +1,8 @@
+.plans-container--slider {
+    overflow-x: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.plans-container--card {
+    scroll-snap-align: none;
+}

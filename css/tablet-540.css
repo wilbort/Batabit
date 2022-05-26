@@ -1,0 +1,11 @@
+.main-tables-container {
+    display: flex;
+    gap: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.plans-container--slider {
+    overflow-x: auto;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
